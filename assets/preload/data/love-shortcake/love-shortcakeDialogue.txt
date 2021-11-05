@@ -1,0 +1,30 @@
+1:rosie:talking: That was fun, but let’s rest for a bit.
+1:bf:talking: Yeah, I need to breathe a little. Man, I'm thirsty!
+1:rosie:smile: Here, take some bubble tea, on the house! It'll help soothe your vocals.
+1:bf:smile: Oh thank yo-
+2:sound::Bell
+2:rosie:confused: Huh?
+2:fade::
+3:bgonly::
+3:alucard:smile: Hey Sweetie!
+3:fade::
+4:bgonly::
+4:rosie:inlove1: ALU!
+4:fade::
+5:bgonly::
+5:alucard:smile: Whoa whoa, easy there love! I missed you too.
+5:fade::
+6:bgonly::
+6:alucard:talking: Hey, this place seems more active than usual.
+6:rosie:talking: Yep! All thanks to my friend here! Meet Boyfriend......no seriously that's his name.
+6:bf:talking: Oh hey, I know you! Remember me? I used to hang with P-
+6:alucard:fear: P-Please don’t mention him... 
+6:alucard:normal: But I do know you, thanks for helping my girl with the cafe little dude. I appreciate it.
+6:bf:smile: No problem man!
+6:rosie:talking: Hey Boyfriend, how about we sing a love song for our partners this time?
+6:fade::
+7:bgonly::
+7:bf:smile: Sounds good! I’ll put my heart into this next one for you Girlfriend!
+7:gf:normal: Awww~
+7:rosie:talking: Sit with girlfriend Alu, I want you to enjoy my love song for you too.
+7:alucard:inlove2: Alright, do your best honey!

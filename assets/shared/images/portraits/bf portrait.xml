@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf portrait.png">
+<SubTexture name="bf portrait bf default0000" x="0" y="0" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="bf portrait bf mouth open0000" x="1192" y="0" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="bf portrait bf smile0000" x="0" y="352" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="bf portrait bf confused0000" x="1192" y="352" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="bf portrait bf sad0000" x="0" y="704" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="bf portrait bf yeah 10000" x="1192" y="704" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="bf portrait bf yeah 20000" x="0" y="1056" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+</TextureAtlas>

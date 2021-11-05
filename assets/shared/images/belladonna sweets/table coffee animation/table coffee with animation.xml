@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="table coffee with animation.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="table instância 10000" x="0" y="0" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10001" x="461" y="0" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10002" x="922" y="0" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10003" x="1383" y="0" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10004" x="0" y="446" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10005" x="461" y="446" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10006" x="922" y="446" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10007" x="1383" y="446" width="461" height="446" frameX="0" frameY="-18" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10008" x="0" y="892" width="461" height="448" frameX="0" frameY="-16" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10009" x="461" y="892" width="461" height="455" frameX="0" frameY="-9" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10010" x="922" y="892" width="461" height="461" frameX="0" frameY="-3" frameWidth="461" frameHeight="464"/>
+	<SubTexture name="table instância 10011" x="1383" y="892" width="461" height="464"/>
+	<SubTexture name="table instância 10012" x="0" y="1356" width="461" height="464"/>
+	<SubTexture name="table instância 10013" x="0" y="1356" width="461" height="464"/>
+	<SubTexture name="table instância 10014" x="0" y="1356" width="461" height="464"/>
+</TextureAtlas>

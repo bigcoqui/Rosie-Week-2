@@ -1,0 +1,10 @@
+﻿1:shift::
+1:bgonly::
+1:rosie:smile: Isso foi incrível! Você é tão bom quanto eu me lembro, Boyfriend!
+1:bf:smile: Haha, você não é ruim também! sua voz soa melhor quanto você não tá cantando raivosamente.
+1:gf:smile: pfftt..
+1:rosie:talking: Eu sei eu sei, não precisa me lembrar disso, mas eu tenho minhas razões pra proteger aquele parque, tá?
+1:bf:talking: Mas olha só, quantas pessoas estão aqui agora! Funcionou então né?
+1:rosie:talking: Sim! Obrig-.
+1:bf:talking: Não me agradeça ainda, agora temos que entreter. Você tá pronta?
+1:rosie:talking: Sim!

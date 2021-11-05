@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo_bump.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumpin instância 10000" x="0" y="0" width="900" height="632" frameX="-21" frameY="-13" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10001" x="900" y="0" width="945" height="665"/>
+	<SubTexture name="logo bumpin instância 10002" x="900" y="0" width="945" height="665"/>
+	<SubTexture name="logo bumpin instância 10003" x="0" y="665" width="919" height="645" frameX="-12" frameY="-8" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10004" x="0" y="665" width="919" height="645" frameX="-12" frameY="-8" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10005" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10006" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10007" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10008" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10009" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10010" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10011" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10012" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10013" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+	<SubTexture name="logo bumpin instância 10014" x="919" y="665" width="911" height="640" frameX="-16" frameY="-10" frameWidth="945" frameHeight="665"/>
+</TextureAtlas>

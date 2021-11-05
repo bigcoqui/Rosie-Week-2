@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="karans_icon.png">
+<SubTexture name="karans_icon icon still0000" x="0" y="0" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+<SubTexture name="karans_icon icon move0000" x="404" y="0" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+<SubTexture name="karans_icon icon move0001" x="0" y="404" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+<SubTexture name="karans_icon icon move0002" x="404" y="404" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+</TextureAtlas>

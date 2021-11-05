@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="retro_and_loly_bop.png">
+<SubTexture name="retro and loly bop animation bop animation0000" x="0" y="0" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+<SubTexture name="retro and loly bop animation bop animation0001" x="1004" y="0" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+<SubTexture name="retro and loly bop animation bop animation0002" x="0" y="1253" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+<SubTexture name="retro and loly bop animation bop animation0003" x="1004" y="1253" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+<SubTexture name="retro and loly bop animation bop animation0004" x="0" y="2506" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+<SubTexture name="retro and loly bop animation bop animation0005" x="1004" y="2506" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+<SubTexture name="retro and loly bop animation bop animation0006" x="0" y="3759" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+<SubTexture name="retro and loly bop animation bop animation0007" x="1004" y="3759" width="1004" height="1253" frameX="0" frameY="0" frameWidth="1004" frameHeight="1253" />
+</TextureAtlas>

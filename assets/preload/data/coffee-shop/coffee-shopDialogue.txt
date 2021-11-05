@@ -1,0 +1,77 @@
+1:bgonly::
+1:gf:yeah: Aaaand here we are!
+1:bf:normal: Skdoo beep!
+1:gf:confused: Honey, could you switch off the beeps and boops this time. We're just meeting a friend.
+1:bf:talking: Sorry, force of habit.
+1:bf:talking: Anyways, are you sure this is the place?
+1:gf:talking: Considering the way my dad was snickering to high hell about this, I'd say yeah. She works here.
+1:bf:talking: You sure she'll be glad to see us again? Especially at her job of all places.
+1:gf:smile: Oh c'mon! It's Just like in the park, there's no need to be scared.
+1:bf:talking: And just like in the park you said that right before we got confronted.
+1:gf:talking: Yeah, but this time we're coming to the "threat" and not the other way around.
+1:bf:talking: Eh, I guess you're right.
+1:gf:yeah: Enough talk, let's go inside.
+1:fade::
+2:bgonly::
+2:rosie:smile: Welcome to Donna's Cafe, can I get you anything?
+2:gf:smile: Some viperwine please.
+2:rosie:confused: ...?
+2:rosie:smile: Heh heh, not to be a bother but it's kinda early for some alcohol miss.
+2:gf:talking: Fair point.
+2:gf:smile: Make it a cappucino then.
+2:rosie:smile: Alright, one cappuccino.
+2:rosie:confused: (Why does that voice sound so familiar?)
+2:rosie:smile: And what will you be getting sir?
+2:bf:smile: One rap battle please! Hold the bullets.
+2:rosie:confused: Rap battle? What do you mean by-oh! Boyfriend!
+2:gf:smile: Surprise!
+2:fade::
+3:bgonly::
+3:rosie:smile2: I didn't even notice you two!
+3:rosie:talking: Especially you Boyfriend, since y'know... You're actually talking now.
+3:bf:normal: Beep boop skdoo bop!
+3:rosie:confused:....?
+3:bf:talking: Just yanking ya chain!
+3:gf:smile: Hah hah hah.
+3:rosie:smile: Pfft.
+3:gf:talking: Anyways, We were looking for you in the park, but you weren't there.
+3:rosie:confused: But how'd you know where I work?
+3:gf:talking: I asked Daddy. I never knew you had your own cafe.
+3:rosie:confused: Oh god. And how did HE know where I work?
+3:gf:talking: Supposedly Mommy told him. He wouldn't stop laughing for a good ten minutes afterwards.
+3:rosie:sad: Damn, she was supposed to keep this a secret!
+3:gf:talking: Oh, has she been here before?
+3:rosie:talking: Yeah, only once though. She asked for the same drink you tried ordering. The other server taste-tested it aaaand-
+3:gf:talking: Straight to the hospital?
+3:rosie:sad: Yeah.
+3:fade::
+4:bgonly::
+4:bf:talking: What's wrong?
+4:rosie:sad: Well, the "orders" we take care of outside this cafe have been good thus far but.
+4:rosie:sad: Working here brings me a different kind of joy that not even headshots could satiate.
+4:rosie:sad: Lately though, the cafe's been slow on customers. I fear that I'll have to close if things don't improve.
+4:rosie:sad: I hate to see it in this state. This place has been open for a good while now and I honestly don't want to give it up.
+4:fade::
+5:bgonly::
+5:gf:talking: That's all? We can help you with that.
+5:rosie:confused: ...! How so?
+5:gf:talking: Well by the look of this place, what you need is some entertainment.
+5:rosie:confused: Entertainment? But I'm already serving customers in a maid dress. Isn't that enough?
+5:gf:talking: Don't fret. I'm not trying to diss your clothing but people need more than eye-candy to attract the masses.
+5:rosie:confused: That thing being?
+5:bf:talking: A good rap battle always does the trick! It always draws in people most of the time. And who knows, maybe someone we'll attract some colorful people.
+5:gf:talking: That's right babe! So Rosie dear, what do you think?
+5:fade::
+6:bgonly::
+6:rosie:talking: Not a bad idea, let's give it a shot! Boyfriend, do you like Bossa Nova?
+6:bf:talking: Hell yeah I do!
+6:rosie:talking: One Rap Battle, coming up! Hold the bullets!
+6:sound::Safety
+6:rosie:normal: *puts safety on pistol*
+6:bf:confused: Wait you seriously have a pistol on yo-
+6:rosie:smile: Let's begin!
+
+
+
+
+

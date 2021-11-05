@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_arrows.png">
+<SubTexture name="menu arrows arrow0000" x="0" y="0" width="271" height="334" frameX="0" frameY="0" frameWidth="271" frameHeight="334" />
+<SubTexture name="menu arrows arrow press0000" x="271" y="0" width="271" height="334" frameX="0" frameY="0" frameWidth="271" frameHeight="334" />
+<SubTexture name="menu arrows arrow press0001" x="0" y="271" width="271" height="334" frameX="0" frameY="0" frameWidth="271" frameHeight="334" />
+<SubTexture name="menu arrows arrow press0002" x="271" y="271" width="271" height="334" frameX="0" frameY="0" frameWidth="271" frameHeight="334" />
+</TextureAtlas>

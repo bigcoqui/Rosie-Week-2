@@ -1,0 +1,8 @@
+﻿1:shift::
+1:rosie:smile: Aqui amor, Fiz seus favoritos. Sanduíches de sorvete.
+1:alucard:smile: Obrigado amor.
+1:fade::
+2:bgonly::
+2:rosie:talking: Boyfriend, eu não consigo dizer com palavras o quanto estou grata, esse café significa muito para mim.
+2:rosie:talking: Eu gostaria de cantar uma última música com você como sinal de nossa amizade, o que me diz?
+2:bf:talking: Claro! Mais uma não faz mal.

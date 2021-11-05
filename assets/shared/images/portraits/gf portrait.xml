@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf portrait.png">
+<SubTexture name="gf portrait gf default0000" x="0" y="0" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="gf portrait gf mouth open0000" x="1192" y="0" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="gf portrait gf smile0000" x="0" y="352" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="gf portrait gf confused0000" x="1192" y="352" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="gf portrait gf sad0000" x="0" y="704" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="gf portrait gf yeah 10000" x="1192" y="704" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="gf portrait gf yeah 20000" x="0" y="1056" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+</TextureAtlas>

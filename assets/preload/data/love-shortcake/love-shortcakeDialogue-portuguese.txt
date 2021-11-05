@@ -1,0 +1,31 @@
+﻿1:shift::
+1:rosie:talking: Isso foi divertido, mas vamos descansar um pouco.
+1:bf:talking: é, eu preciso respirar um pouquinho. Cara eu to com sede!
+1:rosie:smile: Aqui, toma um pouco de chá de bolhas, por conta da casa! Vai ajudar a refrescar suas cordas vocais.
+1:bf:smile: Ah obrigad-
+2:sound::Bell
+2:rosie:confused: Huh?
+2:fade::
+3:bgonly::
+3:alucard:smile: Oi amorzinho!
+3:fade::
+4:bgonly::
+4:rosie:inlove1: ALU!
+4:fade::
+5:bgonly::
+5:alucard:smile: Wow wow, vai com calma amor! Eu senti sua falta também.
+5:fade::
+6:bgonly::
+6:alucard:talking: Ei, esse lugar tá mais movimentado que o normal.
+6:rosie:talking: Mhm! graças ao meu amigo aqui! Conheça o Boyfriend....esse realmente é o nome dele.
+6:bf:talking: Ah, eu conheço você! Lembra de mim? Eu costumava ficar com o Pi-
+6:alucard:fear: P-Por favor não mencione ele…
+6:alucard:normal: Mas eu conheço você, obrigado por ajudar minha garota com o café dela aqui, mano. Significa muito.
+6:bf:smile: Sem problemas cara!
+6:rosie:talking: Ei Boyfriend, que tal cantarmos uma canção de amor para nossos parceiros dessa vez?
+6:fade::
+7:bgonly::
+7:bf:smile: Gostei disso! Vou colocar todo meu amor nessa música pra você, Girlfriend!
+7:gf:normal: Awww~
+7:rosie:talking: Sente ali com a Girlfriend, Alu, Eu quero que você aprecie meu amor por você também.
+7:alucard:inlove2: Tudo bem, dê seu melhor amor!

@@ -1,0 +1,17 @@
+﻿3:shift::
+3:bgonly::
+3:fade::
+4:bgonly::
+4:rosie:smile: Hoje foi tão divertido. Obrigada por virem me visitar. Vocês foram de grande ajuda! Vocês vão vir de novo algum dia?
+4:gf:smile: Claro! e esperamos ver esse lugar cheio de gente quando viermos.
+4:rosie:talking: Heh, eu vou tentar.
+4:bf:talking: Vamos pegar nosso caminho agora, foi bom ver você de novo também Alucard!
+4:alucard:talking: Também mano, mas me faça um favor.
+4:bf:normal: hmm?
+4:alucard:normal: Eu gostaria que esse encontro e outros futuros fossem deixados em segredo de.....você sabe quem.
+4:bf:smile: Tá bom! sem problema.
+4:alucard:smile: Ótimo! agora que resolvemos isso, podemos ir amor.
+4:rosie:talking: Mhm, vejo vocês dois algum dia!
+4:fade::
+5:bgonly::
+6:bgonly::

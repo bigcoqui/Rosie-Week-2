@@ -1,0 +1,16 @@
+3:bgonly::
+3:fade::
+4:bgonly::
+4:rosie:smile: Today was so much fun. Thanks for paying me a visit. You guys were such a huge help! Will you come by again sometime soon?
+4:gf:smile: Of course! and we hope to see this place full of people when we do.
+4:rosie:talking: Heh, I will try my best.
+4:bf:talking: We’ll be on our way now, it was nice seeing you again too Alucard!
+4:alucard:talking: Same man, but just do me a favor.
+4:bf:normal: hmm?
+4:alucard:fear: I'd like to keep this encounter and any future ones unknown to.....y'know.
+4:bf:smile: Sure! Not a problem.
+4:alucard:smile: Great! Now that that's taken care of, let's go honey.
+4:rosie:talking: Mhm, see you two later!
+4:fade::
+5:bgonly::
+6:bgonly::

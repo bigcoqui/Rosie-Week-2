@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="checkerboard_pattern_movement.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="checkerboard movement instância 10000" x="0" y="0" width="2113" height="1188" frameX="-116" frameY="-115" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10001" x="0" y="0" width="2113" height="1188" frameX="-112" frameY="-111" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10002" x="0" y="0" width="2113" height="1188" frameX="-108" frameY="-107" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10003" x="0" y="0" width="2113" height="1188" frameX="-104" frameY="-103" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10004" x="0" y="0" width="2113" height="1188" frameX="-100" frameY="-99" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10005" x="0" y="0" width="2113" height="1188" frameX="-96" frameY="-95" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10006" x="0" y="0" width="2113" height="1188" frameX="-92" frameY="-91" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10007" x="0" y="0" width="2113" height="1188" frameX="-88" frameY="-87" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10008" x="0" y="0" width="2113" height="1188" frameX="-84" frameY="-83" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10009" x="0" y="0" width="2113" height="1188" frameX="-80" frameY="-79" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10010" x="0" y="0" width="2113" height="1188" frameX="-76" frameY="-75" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10011" x="0" y="0" width="2113" height="1188" frameX="-72" frameY="-71" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10012" x="0" y="0" width="2113" height="1188" frameX="-68" frameY="-67" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10013" x="0" y="0" width="2113" height="1188" frameX="-64" frameY="-63" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10014" x="0" y="0" width="2113" height="1188" frameX="-60" frameY="-59" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10015" x="0" y="0" width="2113" height="1188" frameX="-56" frameY="-55" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10016" x="0" y="0" width="2113" height="1188" frameX="-52" frameY="-51" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10017" x="0" y="0" width="2113" height="1188" frameX="-48" frameY="-47" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10018" x="0" y="0" width="2113" height="1188" frameX="-44" frameY="-43" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10019" x="0" y="0" width="2113" height="1188" frameX="-40" frameY="-39" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10020" x="0" y="0" width="2113" height="1188" frameX="-36" frameY="-35" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10021" x="0" y="0" width="2113" height="1188" frameX="-32" frameY="-31" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10022" x="0" y="0" width="2113" height="1188" frameX="-28" frameY="-27" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10023" x="0" y="0" width="2113" height="1188" frameX="-24" frameY="-23" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10024" x="0" y="0" width="2113" height="1188" frameX="-20" frameY="-19" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10025" x="0" y="0" width="2113" height="1188" frameX="-16" frameY="-15" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10026" x="0" y="0" width="2113" height="1188" frameX="-12" frameY="-11" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10027" x="0" y="0" width="2113" height="1188" frameX="-8" frameY="-8" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10028" x="0" y="0" width="2113" height="1188" frameX="-4" frameY="-4" frameWidth="2229" frameHeight="1303"/>
+	<SubTexture name="checkerboard movement instância 10029" x="0" y="1188" width="2113" height="1188" frameX="0" frameY="0" frameWidth="2229" frameHeight="1303"/>
+</TextureAtlas>

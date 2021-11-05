@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rosie_dance_left.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rosie dance instância 10000" x="0" y="0" width="432" height="431" frameX="-2" frameY="-10" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10001" x="432" y="0" width="421" height="438" frameX="-7" frameY="-3" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10002" x="853" y="0" width="417" height="440" frameX="-9" frameY="-1" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10003" x="1270" y="0" width="416" height="441" frameX="-10" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10004" x="1686" y="0" width="415" height="441" frameX="-10" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10005" x="1686" y="0" width="415" height="441" frameX="-10" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10006" x="1686" y="0" width="415" height="441" frameX="-10" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10007" x="2101" y="0" width="432" height="429" frameX="-45" frameY="-12" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10008" x="2533" y="0" width="421" height="437" frameX="-51" frameY="-4" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10009" x="2954" y="0" width="417" height="439" frameX="-53" frameY="-2" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10010" x="3371" y="0" width="416" height="441" frameX="-53" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10011" x="0" y="441" width="415" height="441" frameX="-54" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10012" x="0" y="441" width="415" height="441" frameX="-54" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10013" x="0" y="441" width="415" height="441" frameX="-54" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10014" x="0" y="441" width="415" height="441" frameX="-54" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10015" x="415" y="441" width="432" height="431" frameX="0" frameY="-10" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10016" x="847" y="441" width="421" height="438" frameX="-6" frameY="-3" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10017" x="1268" y="441" width="417" height="440" frameX="-8" frameY="-1" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10018" x="1685" y="441" width="415" height="441" frameX="-9" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10019" x="2100" y="441" width="415" height="441" frameX="-9" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10020" x="2100" y="441" width="415" height="441" frameX="-9" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10021" x="2100" y="441" width="415" height="441" frameX="-9" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10022" x="2515" y="441" width="432" height="429" frameX="-44" frameY="-12" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10023" x="2947" y="441" width="421" height="437" frameX="-49" frameY="-4" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10024" x="3368" y="441" width="418" height="439" frameX="-51" frameY="-2" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10025" x="0" y="882" width="416" height="441" frameX="-52" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10026" x="416" y="882" width="415" height="441" frameX="-52" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10027" x="416" y="882" width="415" height="441" frameX="-52" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10028" x="416" y="882" width="415" height="441" frameX="-52" frameY="0" frameWidth="477" frameHeight="441"/>
+	<SubTexture name="rosie dance instância 10029" x="416" y="882" width="415" height="441" frameX="-52" frameY="0" frameWidth="477" frameHeight="441"/>
+</TextureAtlas>

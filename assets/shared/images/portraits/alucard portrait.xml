@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="alucard portrait.png">
+<SubTexture name="alucard portrait alucard default0000" x="0" y="0" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="alucard portrait alucard mouth open0000" x="1192" y="0" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="alucard portrait alucard in love0000" x="0" y="352" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="alucard portrait alucard in love 20000" x="1192" y="352" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="alucard portrait alucard confused0000" x="0" y="704" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="alucard portrait alucard sad0000" x="1192" y="704" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="alucard portrait alucard smile0000" x="0" y="1056" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+<SubTexture name="alucard portrait alucard fear0000" x="1192" y="1056" width="1192" height="352" frameX="0" frameY="0" frameWidth="1192" frameHeight="352" />
+</TextureAtlas>

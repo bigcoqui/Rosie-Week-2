@@ -1,0 +1,73 @@
+﻿1:shift::
+1:bgonly::
+1:gf:yeah: Eeee estamos aqui!
+1:bf:normal: Skdoo beep!
+1:gf:confused: Amor, Pode parar com os beeps e boops dessa vez. A gente tá só indo ver uma amiga
+1:bf:talking: Desculpa, força do hábito.
+1:bf:talking: Mas eai, você tem certeza que esse é o lugar certo?
+1:gf:talking: Considerando o quanto meu pai tava rindo tão alto que até o capeta escutou, eu diria que sim. Ela trabalha aqui.
+1:bf:talking: Você tem certeza que ela vai ficar feliz em ver a gente de novo? Especialmente no seu trabalho secreto.
+1:gf:smile: Ah vamos lá! É como foi no parque, não tem motivo pra ficar com medo.
+1:bf:talking: E como foi no parque, você falou isso antes de sermos confrontados.
+1:gf:talking: É, mas dessa vez estamos indo até a "ameaça" e não ao contrário.
+1:bf:talking: Eh, acho que você tem razão.
+1:gf:yeah: chega de conversa, vamos entrar.
+1:fade::
+2:bgonly::
+2:rosie:smile: Bem vindos ao Donna's Cafe, gostariam de pedir alguma coisa?
+2:gf:smile: Um pouco de viperwine por favor.
+2:rosie:confused: ...?
+2:rosie:smile: Heh heh, sem querer incomodar mas está muito cedo pra tomar álcool senhorita.
+2:gf:talking: Justo.
+2:gf:smile: Um cappuccino então.
+2:rosie:smile: Tudo bem, um cappuccino.
+2:rosie:confused: (Por que essa voz soa tão familiar?)
+2:rosie:smile: E o que você gostaria de pedir, senhor?
+2:bf:smile: Uma batalha de rap, por favor! Sem as balas.
+2:rosie:confused: Batalha de rap? O que você quer dizer co-ah! Boyfriend!
+2:gf:smile: Surpresa!
+2:fade::
+3:bgonly::
+3:rosie:smile2: Eu nem notei vocês dois!
+3:rosie:talking: Especialmente você Boyfriend, porque sabe... Você tá realmente falando dessa vez.
+3:bf:normal: Beep boop skdoo bop!
+3:rosie:confused:....?
+3:bf:talking: Tô só zoando com a sua cara!
+3:gf:smile: Hah hah hah.
+3:rosie:smile: Pfft.
+3:gf:talking: Mas de qualquer forma, a gente foi procurar você no parque, mas você não tava lá.
+3:rosie:confused: Mas como você sabia que eu trabalhava aqui?
+3:gf:talking: Eu perguntei ao meu pai. Eu não sabia que você tinha seu próprio café.
+3:rosie:confused: Ai deus... E como ELE sabia que eu trabalhava aqui?
+3:gf:talking: Supostamente minha mãe falou pra ele. Ele não parou de rir pelos próximos 10 minutos depois disso.
+3:rosie:sad: Merda, Era pra ela guardar segredo!
+3:gf:talking: Ah, ela já veio aqui antes?
+3:rosie:talking: Sim, mas só uma vez. Ela pediu pela mesma bebida que você tentou pedir. O outro funcionário foi provar eeee-
+3:gf:talking: Direto pro hospital?
+3:rosie:sad: É.
+3:fade::
+4:bgonly::
+4:bf:talking: O que foi?
+4:rosie:sad: Bem, os "pedidos" que eu tomo conta fora desse café tem ido bem até agora mas...
+4:rosie:sad: Trabalhar aqui me traz uma alegria diferente que nem atirar em cabeças podem satisfazer.
+4:rosie:sad: Mas ultimamente, o café tem estado mal em relação à clientela. Eu tenho medo de que eu tenha que fechar ele se as coisas não melhorarem.
+4:rosie:sad: Eu não gosto de ver as coisas assim. Esse lugar está aberto por um bom tempo até agora e eu não quero desistir dele.
+4:fade::
+5:bgonly::
+5:gf:talking: Só isso? A gente pode te ajudar.
+5:rosie:confused: ...! Como?
+5:gf:talking: Bem, olhando pra esse lugar, o que você precisa é de entretenimento.
+5:rosie:confused: Entretenimento? Mas eu já tô servindo os clientes com uma roupa de empregada. Isso não é o bastante?
+5:gf:talking: Relaxa. Eu não tô tentando julgar mal sua roupa mas as pessoas querem mais que uma visão agradável pra virem pra cá.
+5:rosie:confused: E o que seria isso?
+5:bf:talking: Uma boa batalha de rap sempre resolve as coisas! Isso sempre atrai a atenção das pessoas . E quem sabe, talvez a gente chame a atenção de um pessoal diferenciado.
+5:gf:talking: Isso mesmo amor! Então Rosie, o que você acha?
+5:fade::
+6:bgonly::
+6:rosie:talking: Não é uma má ideia, vamos tentar! Boyfriend, você gosta de Bossa Nova?
+6:bf:talking: Claro que sim!
+6:rosie:talking: Uma batalha de rap no capricho! Sem balas!
+6:sound::Safety
+6:rosie:normal: *coloca trava de segurança na pistola*
+6:bf:confused: Pera você realmente tinha uma arm-
+6:rosie:smile: Vamos começar!

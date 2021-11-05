@@ -1,0 +1,5 @@
+Tutorial:gf:1
+Coffee-Shop:rosie-maid:1
+Bubble-Tea:rosie-maid:1
+Love-Shortcake:rosie-maid:1
+Girl-From-The-Cafe:rosie-maid:1

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chair_2_alu_shaded.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chair 2 taken instância 10000" x="0" y="0" width="781" height="987" frameX="0" frameY="-29" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10001" x="0" y="0" width="781" height="987" frameX="0" frameY="-29" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10002" x="781" y="0" width="778" height="1007" frameX="-3" frameY="-8" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10003" x="781" y="0" width="778" height="1007" frameX="-3" frameY="-8" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10004" x="0" y="1007" width="777" height="1013" frameX="-4" frameY="-2" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10005" x="0" y="1007" width="777" height="1013" frameX="-4" frameY="-2" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10006" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10007" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10008" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10009" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10010" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10011" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10012" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10013" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10014" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10015" x="0" y="0" width="781" height="987" frameX="0" frameY="-29" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10016" x="0" y="0" width="781" height="987" frameX="0" frameY="-29" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10017" x="781" y="0" width="778" height="1007" frameX="-3" frameY="-8" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10018" x="781" y="0" width="778" height="1007" frameX="-3" frameY="-8" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10019" x="0" y="1007" width="777" height="1013" frameX="-4" frameY="-2" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10020" x="0" y="1007" width="777" height="1013" frameX="-4" frameY="-2" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10021" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10022" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10023" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10024" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10025" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10026" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10027" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10028" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+	<SubTexture name="chair 2 taken instância 10029" x="777" y="1007" width="776" height="1016" frameX="-5" frameY="0" frameWidth="781" frameHeight="1016"/>
+</TextureAtlas>

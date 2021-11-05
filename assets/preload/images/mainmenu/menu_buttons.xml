@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_buttons.png">
+<SubTexture name="story mode basic0000" x="0" y="0" width="359" height="74" frameX="0" frameY="0" frameWidth="359" frameHeight="74" />
+<SubTexture name="story mode basic0001" x="359" y="0" width="359" height="74" frameX="0" frameY="0" frameWidth="359" frameHeight="74" />
+<SubTexture name="story mode white0000" x="718" y="0" width="359" height="74" frameX="0" frameY="0" frameWidth="359" frameHeight="74" />
+<SubTexture name="story mode white0001" x="1077" y="0" width="359" height="74" frameX="0" frameY="0" frameWidth="359" frameHeight="74" />
+<SubTexture name="freeplay basic0000" x="0" y="74" width="290" height="76" frameX="0" frameY="0" frameWidth="290" frameHeight="76" />
+<SubTexture name="freeplay basic0001" x="290" y="74" width="290" height="76" frameX="0" frameY="0" frameWidth="290" frameHeight="76" />
+<SubTexture name="freeplay white0000" x="580" y="74" width="290" height="76" frameX="0" frameY="0" frameWidth="290" frameHeight="76" />
+<SubTexture name="freeplay white0001" x="870" y="74" width="290" height="76" frameX="0" frameY="0" frameWidth="290" frameHeight="76" />
+<SubTexture name="options basic0000" x="0" y="150" width="287" height="68" frameX="0" frameY="0" frameWidth="287" frameHeight="68" />
+<SubTexture name="options basic0001" x="287" y="150" width="287" height="68" frameX="0" frameY="0" frameWidth="287" frameHeight="68" />
+<SubTexture name="options white0000" x="574" y="150" width="287" height="68" frameX="0" frameY="0" frameWidth="287" frameHeight="68" />
+<SubTexture name="options white0001" x="861" y="150" width="287" height="68" frameX="0" frameY="0" frameWidth="287" frameHeight="68" />
+<SubTexture name="credits basic0000" x="0" y="218" width="243" height="70" frameX="0" frameY="0" frameWidth="243" frameHeight="70" />
+<SubTexture name="credits basic0001" x="243" y="218" width="243" height="70" frameX="0" frameY="0" frameWidth="243" frameHeight="70" />
+<SubTexture name="credits white0000" x="486" y="218" width="243" height="70" frameX="0" frameY="0" frameWidth="243" frameHeight="70" />
+<SubTexture name="credits white0001" x="729" y="218" width="243" height="70" frameX="0" frameY="0" frameWidth="243" frameHeight="70" />
+</TextureAtlas>
