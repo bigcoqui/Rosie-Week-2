@@ -19,7 +19,11 @@ class OutdatedSubState extends MusicBeatState
 		super.create();
 		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('portuguese_screen'));
 		bg.screenCenter();
-		add(bg);		
+		add(bg);
+
+		#if android
+		addVirtualPad(NONE, A);
+		#end
 	}
 
 	override function update(elapsed:Float)
