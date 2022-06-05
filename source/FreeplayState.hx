@@ -159,6 +159,10 @@ class FreeplayState extends MusicBeatState
 			trace(md);
 		 */
 
+		#if android
+		addVirtualPad(FULL, A_B_C);
+		#end
+
 		super.create();
 	}
 
@@ -221,7 +225,7 @@ class FreeplayState extends MusicBeatState
 			FlxG.switchState(new MainMenuState());
 		}
 
-		else if (FlxG.keys.justPressed.SHIFT)
+		else if (FlxG.keys.justPressed.SHIFT #if android || _virtualpad.buttonC.justPressed #end)
 			changeChar();
 
 		if (accepted)
