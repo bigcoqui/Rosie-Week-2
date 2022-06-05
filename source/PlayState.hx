@@ -1062,9 +1062,9 @@ class PlayState extends MusicBeatState
 					boyfriend.y -= 125;
 				else
 					boyfriend.y -= 65;
-				dad.y -= 65;
+				dad.y += 135;
 				gf.y -= 165;
-				dad.x += 100;
+				dad.x += 250;
 				gf.x += 300;
 				boyfriend.x += 450;
 			case 'cafe-shaded':
