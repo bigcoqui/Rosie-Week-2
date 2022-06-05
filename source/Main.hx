@@ -25,6 +25,8 @@ class Main extends Sprite
 	public static var diff = 1;
 
 	public static var watermarks = true; // Whether to put Kade Engine liteartly anywhere
+	
+	public static var path = lime.system.System.applicationStorageDirectory; // path to storage folder
 
 	// You can pretty much ignore everything from here on - your code should go in your states.
 
