@@ -25,6 +25,9 @@ class OptionsMenu extends MusicBeatState
 
 	var options:Array<OptionCategory> = [
 		new OptionCategory("Gameplay", [
+			#if android
+			new AndroidControls(),
+			#end
 			new DFJKOption(controls),
 			new DownscrollOption("Change the layout of the strumline."),
 			new GhostTapOption("Ghost Tapping is when you tap a direction and it doesn't give you a miss."),
@@ -42,13 +45,13 @@ class OptionsMenu extends MusicBeatState
 			#if desktop
 			new DistractionsAndEffectsOption("Toggle stage distractions that can hinder your gameplay."),
 			new RainbowFPSOption("Make the FPS Counter Rainbow"),
-			new AccuracyOption("Display accuracy information."),
 			new NPSDisplayOption("Shows your current Notes Per Second."),
-			new SongPositionOption("Show the songs current position (as a bar)"),
 			new CpuStrums("CPU's strumline lights up when a note hits it."),
-			new DialogueOption("Toggle between English and Portuguese"),
 			#else
-			new DistractionsAndEffectsOption("Toggle stage distractions that can hinder your gameplay.")
+			new DistractionsAndEffectsOption("Toggle stage distractions that can hinder your gameplay."),
+			new AccuracyOption("Display accuracy information."),
+			new SongPositionOption("Show the songs current position (as a bar)"),
+			new DialogueOption("Toggle between English and Portuguese")
 			#end
 		]),
 		
@@ -111,6 +114,10 @@ class OptionsMenu extends MusicBeatState
 
 		FlxTween.tween(versionShit,{y: FlxG.height - 18},2,{ease: FlxEase.elasticInOut});
 		FlxTween.tween(blackBorder,{y: FlxG.height - 18},2, {ease: FlxEase.elasticInOut});
+
+		#if android
+		addVirtualPad(FULL, A_B);
+		#end
 
 		super.create();
 	}
