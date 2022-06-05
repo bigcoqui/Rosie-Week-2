@@ -213,6 +213,8 @@ class Character extends FlxSprite
 				animation.addByPrefix('singDOWN', 'maid rosie down', 24, false);
 				animation.addByPrefix('singLEFT', 'maid rosie left', 24, false);
 				animation.addByPrefix('ara ara', 'maid rosie ara ara', 24, false);
+				
+				setGraphicSize(Std.int(width * 2));
 	
 				addOffset('idle');
 				addOffset("singUP", -21, 16);
@@ -347,6 +349,8 @@ class Character extends FlxSprite
 				animation.addByPrefix('deathLoop', "BF Dead Loop", 24, true);
 				animation.addByPrefix('deathConfirm', "BF Dead confirm", 24, false);
 				animation.addByPrefix('scared', 'BF idle shaking', 24);
+				
+				setGraphicSize(Std.int(width * 2));
 	
 				addOffset('idle', -5);
 				addOffset("singUP", -29, 27);
