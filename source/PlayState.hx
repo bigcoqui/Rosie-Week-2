@@ -1273,6 +1273,10 @@ class PlayState extends MusicBeatState
 		if (loadRep)
 			replayTxt.cameras = [camHUD];
 
+	  #if android
+	  addAndroidControls();
+	  #end
+
 		// if (SONG.song == 'South')
 		// FlxG.camera.alpha = 0.7;
 		// UI_camera.zoom = 1;
@@ -1499,6 +1503,10 @@ class PlayState extends MusicBeatState
 
 	function startCountdown():Void
 	{
+	  #if android
+	  androidc.visible = true;
+	  #end
+
 		inCutscene = false;
 
 		if (isStoryMode)
@@ -2330,7 +2338,7 @@ class PlayState extends MusicBeatState
 		if (!FlxG.save.data.accuracyDisplay)
 			scoreTxt.text = "Score: " + songScore;
 
-		if (FlxG.keys.justPressed.ENTER && startedCountdown && canPause)
+		if (FlxG.keys.justPressed.ENTER #if android || FlxG.android.justReleased.BACK #end && startedCountdown && canPause)
 		{
 			persistentUpdate = false;
 			persistentDraw = true;
@@ -3014,6 +3022,10 @@ class PlayState extends MusicBeatState
 
 	function endSong():Void
 	{
+	  #if android
+	  androidc.visible = false;
+	  #end
+
 		/*if (!loadRep)
 			rep.SaveReplay(saveNotes);
 		else
