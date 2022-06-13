@@ -236,6 +236,8 @@ class PlayState extends MusicBeatState
 
 	override public function create()
 	{
+		Paths.clearStoredMemory();
+
 		instance = this;
 		
 		if (FlxG.save.data.fpsCap > 290)
@@ -1398,6 +1400,8 @@ class PlayState extends MusicBeatState
 			rep = new Replay("na");
 
 		super.create();
+
+		Paths.clearUnusedMemory();
 	}
 
 	function schoolIntro(?dialogueBox:DialogueBox):Void
