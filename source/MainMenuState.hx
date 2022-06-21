@@ -154,6 +154,7 @@ class MainMenuState extends MusicBeatState
 
 		miniRosie = new Character( 75, 0, 'mini-rosie');
 		miniRosie.playAnim('idle');
+		miniRosie.setGraphicSize(Std.int(miniRosie.width * 3));
 		miniRosie.scrollFactor.set();
 		miniRosie.antialiasing = true;
 		add(miniRosie);
