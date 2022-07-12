@@ -284,18 +284,19 @@ class ModchartState
 
 	function makeLuaSprite(spritePath:String,toBeCalled:String, drawBehind:Bool)
 	{
+		#if sys
 		if (!FileSystem.exists(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase()  + "/" + spritePath + ".png"))
 		{
 		    var imageBullShit = "assets/data/" + PlayState.SONG.song.toLowerCase()  + "/" + spritePath + ".png";
 		    var fileImage = openfl.Assets.getBytes(imageBullShit);
-
+		
 		    FileSystem.createDirectory(Main.path + "assets");
 		    FileSystem.createDirectory(Main.path + "assets/data");
 		    FileSystem.createDirectory(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase());
-
+		
 		    File.saveBytes(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase()  + "/" + spritePath + ".png", fileImage);
 		}
-
+			
 		var data:BitmapData = BitmapData.fromFile(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase() + '/' + spritePath + ".png");
 
 		var sprite:FlxSprite = new FlxSprite(0,0);
@@ -336,7 +337,7 @@ class ModchartState
                 PlayState.instance.addObject(PlayState.dad);
             }
         }
-    #end
+		#end
 		return toBeCalled;
 	}
 
