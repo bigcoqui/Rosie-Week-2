@@ -26,6 +26,8 @@ class Main extends Sprite
 
 	public static var watermarks = true; // Whether to put Kade Engine liteartly anywhere
 
+	public static var path:String = System.applicationStorageDirectory;
+
 	// You can pretty much ignore everything from here on - your code should go in your states.
 
 	public static function main():Void
