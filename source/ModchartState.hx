@@ -336,7 +336,6 @@ class ModchartState
                 PlayState.instance.addObject(PlayState.dad);
             }
         }
-		#end
 		return toBeCalled;
 	}
 
