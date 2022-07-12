@@ -3,7 +3,6 @@
 // Lua
 import flixel.graphics.FlxGraphic;
 import flixel.graphics.frames.FlxAtlasFrames;
-#if windows
 import flixel.tweens.FlxEase;
 import openfl.filters.ShaderFilter;
 import flixel.tweens.FlxTween;
@@ -281,8 +280,19 @@ class ModchartState
 
 	function makeLuaSprite(spritePath:String,toBeCalled:String, drawBehind:Bool)
 	{
-		#if sys
-		var data:BitmapData = BitmapData.fromFile(Sys.getCwd() + "assets/data/" + PlayState.SONG.song.toLowerCase() + '/' + spritePath + ".png");
+		if (!FileSystem.exists(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase()  + "/" + spritePath + ".png"))
+		{
+		    var imageBullShit = "assets/data/" + PlayState.SONG.song.toLowerCase()  + "/" + spritePath + ".png";
+		    var fileImage = openfl.Assets.getBytes(imageBullShit);
+
+		    FileSystem.createDirectory(Main.path + "assets");
+		    FileSystem.createDirectory(Main.path + "assets/data");
+		    FileSystem.createDirectory(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase());
+
+		    File.saveBytes(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase()  + "/" + spritePath + ".png", fileImage);
+		}
+
+		var data:BitmapData = BitmapData.fromFile(Main.path + "assets/data/" + PlayState.SONG.song.toLowerCase() + '/' + spritePath + ".png");
 
 		var sprite:FlxSprite = new FlxSprite(0,0);
 		var imgWidth:Float = FlxG.width / data.width;
@@ -834,4 +844,3 @@ class ModchartState
         return new ModchartState();
     }
 }
-#end
