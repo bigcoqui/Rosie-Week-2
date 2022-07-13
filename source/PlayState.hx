@@ -1257,10 +1257,6 @@ class PlayState extends MusicBeatState
     creditTxt.scrollFactor.set();
     add(creditTxt);
 
-		if(ClientPrefs.downScroll) {
-			creditTxt.y = 148;
-		}
-
 		if (FlxG.save.data.downscroll)
 			kadeEngineWatermark.y = FlxG.height * 0.9 + 45;
 
