@@ -125,7 +125,7 @@ class Paths
 
 	inline static public function luaImage(key:String, ?library:String)
 	{
-		return Main.path + getPath('data/$key.png', IMAGE, library);
+		return getPath('data/$key.png', IMAGE, library);
 	}
 
 	inline static public function txt(key:String, ?library:String)
