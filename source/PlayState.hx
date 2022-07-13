@@ -55,10 +55,6 @@ import openfl.display.StageQuality;
 import openfl.filters.ShaderFilter;
 import ModchartState;
 import sys.io.File;
-
-#if mobileC
-import ui.Mobilecontrols;
-#end
 #if windows
 import Discord.DiscordClient;
 #end
@@ -71,9 +67,6 @@ using StringTools;
 
 class PlayState extends MusicBeatState
 {
-	#if mobileC
-	var mcontrols:Mobilecontrols; 
-	#end
 	public static var instance:PlayState = null;
 
 	public static var curStage:String = '';
@@ -244,6 +237,8 @@ class PlayState extends MusicBeatState
 
 	override public function create()
 	{
+    Paths.clearStoredMemory();
+
 		instance = this;
 		
 		if (FlxG.save.data.fpsCap > 290)
@@ -1098,9 +1093,9 @@ class PlayState extends MusicBeatState
 					boyfriend.y -= 125;
 				else
 					boyfriend.y -= 65;
-				dad.y -= 65;
+				dad.y += 135;
 				gf.y -= 165;
-				dad.x += 100;
+				dad.x += 250;
 				gf.x += 300;
 				boyfriend.x += 450;
 			case 'cafe-shaded':
@@ -1108,9 +1103,9 @@ class PlayState extends MusicBeatState
 					boyfriend.y -= 125;
 				else
 					boyfriend.y -= 65;
-				dad.y -= 65;
+				dad.y += 135;
 				gf.y -= 165;
-				dad.x += 100;
+				dad.x += 250;
 				gf.x += 300;
 				boyfriend.x += 450;
 		}
@@ -1256,11 +1251,15 @@ class PlayState extends MusicBeatState
 		kadeEngineWatermark.scrollFactor.set();
 		add(kadeEngineWatermark);
 
-		var portby:FlxText = new FlxText(0,0,0,"Port by Nong vanila", 108);
-		portby.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
-		portby.scrollFactor.set();
-		portby.cameras = [camHUD];
-		add(portby);
+		var creditTxt = new FlxText(876, 648, 348);
+    creditTxt.text = "PORTED BY\nTHEORDA";
+    creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
+    creditTxt.scrollFactor.set();
+    add(creditTxt);
+
+		if(ClientPrefs.downScroll) {
+			creditTxt.y = 148;
+		}
 
 		if (FlxG.save.data.downscroll)
 			kadeEngineWatermark.y = FlxG.height * 0.9 + 45;
@@ -1315,29 +1314,9 @@ class PlayState extends MusicBeatState
 		if (loadRep)
 			replayTxt.cameras = [camHUD];
 
-		#if mobileC
-			mcontrols = new Mobilecontrols();
-			switch (mcontrols.mode)
-			{
-				case VIRTUALPAD_RIGHT | VIRTUALPAD_LEFT | VIRTUALPAD_CUSTOM:
-					controls.setVirtualPad(mcontrols._virtualPad, FULL, NONE);
-				case HITBOX:
-					controls.setHitBox(mcontrols._hitbox);
-				default:
-			}
-			trackedinputs = controls.trackedinputs;
-			controls.trackedinputs = [];
-
-			var camcontrol = new FlxCamera();
-			FlxG.cameras.add(camcontrol);
-			camcontrol.bgColor.alpha = 0;
-			mcontrols.cameras = [camcontrol];
-
-			mcontrols.visible = false;
-
-			add(mcontrols);
+		#if android
+		addAndroidControls();
 		#end
-
 
 		// if (SONG.song == 'South')
 		// FlxG.camera.alpha = 0.7;
@@ -1460,6 +1439,8 @@ class PlayState extends MusicBeatState
 			rep = new Replay("na");
 
 		super.create();
+
+    Paths.clearUnusedMemory();
 	}
 
 	function schoolIntro(?dialogueBox:DialogueBox):Void
@@ -1565,8 +1546,8 @@ class PlayState extends MusicBeatState
 
 	function startCountdown():Void
 	{
-		#if mobileC
-		mcontrols.visible = true;
+		#if android
+		androidc.visible = true;
 		#end
 
 		inCutscene = false;
