@@ -141,21 +141,12 @@ class MainMenuState extends MusicBeatState
 				menuItem.setGraphicSize(Std.int(menuItem.width * 1.1));
 				menuItem.x = 725;
 			}
-//			if (firstStart)
-//				FlxTween.tween(menuItem,{y: 60 + (i * 160)},1 + (i * 0.25) ,{ease: FlxEase.expoInOut, onComplete: function(flxTween:FlxTween) 
-//					{ 
-//						finishedFunnyMove = true; 
-//						changeItem();
-//					}});
-//			else
 			menuItem.y = 120 + (i * 120);
 			finishedFunnyMove = true; 
 		}
 
 		miniRosie = new Character( 75, 200, 'mini-rosie');
 		miniRosie.playAnim('idle');
-    miniRosie.scale.x = 3;
-    miniRosie.scale.y = 3;
 		miniRosie.scrollFactor.set();
 		miniRosie.antialiasing = true;
 		add(miniRosie);
