@@ -152,82 +152,13 @@ class MainMenuState extends MusicBeatState
 			finishedFunnyMove = true; 
 		}
 
-		miniRosie = new Character( 75, 0, 'mini-rosie');
+		miniRosie = new Character( 75, 200, 'mini-rosie');
 		miniRosie.playAnim('idle');
-		//miniRosie.setGraphicSize(Std.int(miniRosie.width * 3)); ???
+    miniRosie.scale.x = 3;
+    miniRosie.scale.y = 3;
 		miniRosie.scrollFactor.set();
 		miniRosie.antialiasing = true;
 		add(miniRosie);
-
-/*		letsdoit = new FlxSprite(miniRosie.x - 35, miniRosie.y - 65).loadGraphic(Paths.image('speech_bubble'));
-		letsdoit.scrollFactor.set();
-		letsdoit.antialiasing = true;
-		letsdoit.visible = false;
-		letsdoit.scale.x = 0.8;
-		letsdoit.scale.y = 0.75;
-		add(letsdoit);
-
-
-
-		menuarrowup = new FlxSprite(775, 55);
-		menuarrowup.frames = Paths.getSparrowAtlas('menu_arrows');
-		menuarrowup.animation.addByPrefix('idle', "menu arrows arrow0");
-		menuarrowup.scale.x = 0.25;
-		menuarrowup.scale.y = 0.25;
-		menuarrowup.updateHitbox();
-		menuarrowup.scrollFactor.set();
-		menuarrowup.animation.play('idle');
-		add(menuarrowup);
-
-		menuarrowdown = new FlxSprite(775, 425);
-		menuarrowdown.frames = Paths.getSparrowAtlas('menu_arrows');
-		menuarrowdown.animation.addByPrefix('idle', "menu arrows arrow0");
-		menuarrowdown.scale.x = 0.25;
-		menuarrowdown.scale.y = 0.25;
-		menuarrowdown.updateHitbox();
-		menuarrowdown.scrollFactor.set();
-		menuarrowdown.flipY = true;
-		menuarrowdown.animation.play('idle');
-		add(menuarrowdown);
-
-
-		arrows = new FlxTypedGroup<FlxSprite>();
-        add(arrows);
-        for(i in 0...2)
-        {
-            var arrow:FlxSprite = new FlxSprite(0,0);
-            arrow.frames = Paths.getSparrowAtlas('NOTE_assets_rosie', 'shared');
-            if(i == 0)
-            {
-                arrow.animation.addByPrefix('idle', 'arrow static up');
-                arrow.animation.addByPrefix('pressed', 'up press', 24, false);
-                arrow.animation.addByPrefix('confirm', 'up confirm', 24, false);
-            }else
-            {
-                arrow.animation.addByPrefix('idle', 'arrow static down');
-                arrow.animation.addByPrefix('pressed', 'down press', 24, false);
-                arrow.animation.addByPrefix('confirm', 'down confirm', 24, false);                
-            }
-            arrow.animation.play('idle');
-            arrow.setGraphicSize(Std.int(arrow.width * 0.7));
-            arrow.updateHitbox();
-			if (i == 0)
-				arrow.setPosition(800, FlxG.height * 0.28);
-			else
-				arrow.setPosition(800, FlxG.height * 0.6);
-            arrow.antialiasing = true;
-			arrow.scrollFactor.set();
-            arrows.add(arrow);
-            arrow.animation.finishCallback = function(t){
-                if(arrow.animation.curAnim.name == 'confirm')
-                {
-                    arrow.animation.play('idle');
-                    arrow.centerOffsets();
-                }
-            }
-        }
-	*/
-		
 
 		firstStart = false;
 
@@ -238,7 +169,6 @@ class MainMenuState extends MusicBeatState
 		add(versionShit);
 
 		// NG.core.calls.event.logEvent('swag').send();
-
 
 		if (FlxG.save.data.dfjk)
 			controls.setKeyboardScheme(KeyboardScheme.Solo, true);
