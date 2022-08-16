@@ -722,6 +722,7 @@ class PlayState extends MusicBeatState
 					curStage = 'cafe';
 
 							var bg:FlxSprite = new FlxSprite(-1300, -600).loadGraphic(Paths.image('belladonna sweets/stage 1'));
+					    bg.setGraphicSize(Std.int(bg.width * 2));
 							bg.antialiasing = true;
 							bg.scrollFactor.set(1, 1);
 							bg.active = false;
@@ -830,6 +831,7 @@ class PlayState extends MusicBeatState
 				curStage = 'cafe-shaded';
 				{
 					var bg:FlxSprite = new FlxSprite(-1300, -600).loadGraphic(Paths.image('belladonna sweets/stage_1_shaded'));
+					bg.setGraphicSize(Std.int(bg.width * 2));
 					bg.antialiasing = true;
 					bg.scrollFactor.set(1, 1);
 					bg.active = false;
