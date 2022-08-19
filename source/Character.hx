@@ -144,15 +144,13 @@ class Character extends FlxSprite
 				animation.addByPrefix('jump-fall', "rosie menu idle rosie jump fall", 24, false);
 				animation.addByPrefix('talk', "rosie menu idle rosie talk", 15, false);
 
-				setGraphicSize(Std.int(width * 3));
-
 				addOffset('idle');
 				addOffset('jump', 612, 130);
 				addOffset('jump-fall', 612, 110);
 				addOffset('talk');
-				
-				scale.x = 0.5;
-				scale.y = 0.5;
+
+				scale.x = 3.5;
+				scale.y = 3.5;
 
 				updateHitbox();
 
