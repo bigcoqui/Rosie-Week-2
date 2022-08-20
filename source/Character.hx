@@ -149,8 +149,8 @@ class Character extends FlxSprite
 				addOffset('jump-fall', 612, 110);
 				addOffset('talk');
 
-				scale.x = 3.5;
-				scale.y = 3.5;
+				scale.x = 1.5;
+				scale.y = 1.5;
 
 				updateHitbox();
 
