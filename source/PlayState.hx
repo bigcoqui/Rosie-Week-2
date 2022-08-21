@@ -723,7 +723,7 @@ class PlayState extends MusicBeatState
 					defaultCamZoom = 0.57;
 					curStage = 'cafe';
 
-							var bg:FlxSprite = new FlxSprite(-475, -105).loadGraphic(Paths.image('belladonna sweets/stage 1'));
+							var bg:FlxSprite = new FlxSprite(-375, -175).loadGraphic(Paths.image('belladonna sweets/stage 1'));
 					    bg.setGraphicSize(Std.int(bg.width * 2));
 							bg.antialiasing = true;
 							bg.scrollFactor.set(1, 1);
