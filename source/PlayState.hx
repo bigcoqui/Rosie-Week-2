@@ -723,7 +723,7 @@ class PlayState extends MusicBeatState
 					defaultCamZoom = 0.57;
 					curStage = 'cafe';
 
-							var bg:FlxSprite = new FlxSprite(-375, -75).loadGraphic(Paths.image('belladonna sweets/stage 1'));
+							var bg:FlxSprite = new FlxSprite(-280, -50).loadGraphic(Paths.image('belladonna sweets/stage 1'));
 					    bg.setGraphicSize(Std.int(bg.width * 2));
 							bg.antialiasing = true;
 							bg.scrollFactor.set(1, 1);
@@ -832,7 +832,7 @@ class PlayState extends MusicBeatState
 				defaultCamZoom = 0.57;
 				curStage = 'cafe-shaded';
 				{
-					var bg:FlxSprite = new FlxSprite(-375, -75).loadGraphic(Paths.image('belladonna sweets/stage_1_shaded'));
+					var bg:FlxSprite = new FlxSprite(-280, -50).loadGraphic(Paths.image('belladonna sweets/stage_1_shaded'));
 					bg.setGraphicSize(Std.int(bg.width * 2));
 					bg.antialiasing = true;
 					bg.scrollFactor.set(1, 1);
