@@ -145,7 +145,7 @@ class MainMenuState extends MusicBeatState
 			finishedFunnyMove = true; 
 		}
 
-		miniRosie = new Character( 75, 200, 'mini-rosie');
+		miniRosie = new Character(225, 275, 'mini-rosie');
 		miniRosie.playAnim('idle');
 		miniRosie.scrollFactor.set();
 		miniRosie.antialiasing = true;
