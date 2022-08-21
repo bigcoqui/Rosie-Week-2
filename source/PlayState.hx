@@ -454,8 +454,6 @@ class PlayState extends MusicBeatState
 					trainSound = new FlxSound().loadEmbedded(Paths.sound('train_passes','week3'));
 					FlxG.sound.list.add(trainSound);
 
-					// var cityLights:FlxSprite = new FlxSprite().loadGraphic(AssetPaths.win0.png);
-
 					var street:FlxSprite = new FlxSprite(-40, streetBehind.y).loadGraphic(Paths.image('philly/street','week3'));
 					add(street);
 			}
@@ -488,13 +486,6 @@ class PlayState extends MusicBeatState
 
 					var overlayShit:FlxSprite = new FlxSprite(-500, -600).loadGraphic(Paths.image('limo/limoOverlay','week4'));
 					overlayShit.alpha = 0.5;
-					// add(overlayShit);
-
-					// var shaderBullshit = new BlendModeEffect(new OverlayShader(), FlxColor.RED);
-
-					// FlxG.camera.setFilters([new ShaderFilter(cast shaderBullshit.shader)]);
-
-					// overlayShit.shader = shaderBullshit;
 
 					var limoTex = Paths.getSparrowAtlas('limo/limoDrive','week4');
 
@@ -505,7 +496,6 @@ class PlayState extends MusicBeatState
 					limo.antialiasing = true;
 
 					fastCar = new FlxSprite(-300, 160).loadGraphic(Paths.image('limo/fastCarLol','week4'));
-					// add(limo);
 			}
 			case 'mall':
 			{
@@ -679,51 +669,13 @@ class PlayState extends MusicBeatState
 					bg.scrollFactor.set(0.8, 0.9);
 					bg.scale.set(6, 6);
 					add(bg);
-
-					/* 
-							var bg:FlxSprite = new FlxSprite(posX, posY).loadGraphic(Paths.image('weeb/evilSchoolBG'));
-							bg.scale.set(6, 6);
-							// bg.setGraphicSize(Std.int(bg.width * 6));
-							// bg.updateHitbox();
-							add(bg);
-							var fg:FlxSprite = new FlxSprite(posX, posY).loadGraphic(Paths.image('weeb/evilSchoolFG'));
-							fg.scale.set(6, 6);
-							// fg.setGraphicSize(Std.int(fg.width * 6));
-							// fg.updateHitbox();
-							add(fg);
-							wiggleShit.effectType = WiggleEffectType.DREAMY;
-							wiggleShit.waveAmplitude = 0.01;
-							wiggleShit.waveFrequency = 60;
-							wiggleShit.waveSpeed = 0.8;
-						*/
-
-					// bg.shader = wiggleShit.shader;
-					// fg.shader = wiggleShit.shader;
-
-					/* 
-								var waveSprite = new FlxEffectSprite(bg, [waveEffectBG]);
-								var waveSpriteFG = new FlxEffectSprite(fg, [waveEffectFG]);
-								// Using scale since setGraphicSize() doesnt work???
-								waveSprite.scale.set(6, 6);
-								waveSpriteFG.scale.set(6, 6);
-								waveSprite.setPosition(posX, posY);
-								waveSpriteFG.setPosition(posX, posY);
-								waveSprite.scrollFactor.set(0.7, 0.8);
-								waveSpriteFG.scrollFactor.set(0.9, 0.8);
-								// waveSprite.setGraphicSize(Std.int(waveSprite.width * 6));
-								// waveSprite.updateHitbox();
-								// waveSpriteFG.setGraphicSize(Std.int(fg.width * 6));
-								// waveSpriteFG.updateHitbox();
-								add(waveSprite);
-								add(waveSpriteFG);
-						*/
 			}
 			case 'cafe':
 				{
 					defaultCamZoom = 0.57;
 					curStage = 'cafe';
 
-							var bg:FlxSprite = new FlxSprite(-240, -60).loadGraphic(Paths.image('belladonna sweets/stage 1'));
+							var bg:FlxSprite = new FlxSprite(-220, -60).loadGraphic(Paths.image('belladonna sweets/stage 1'));
 					    bg.setGraphicSize(Std.int(bg.width * 2));
 							bg.antialiasing = true;
 							bg.scrollFactor.set(1, 1);
@@ -832,7 +784,7 @@ class PlayState extends MusicBeatState
 				defaultCamZoom = 0.57;
 				curStage = 'cafe-shaded';
 				{
-					var bg:FlxSprite = new FlxSprite(-240, -60).loadGraphic(Paths.image('belladonna sweets/stage_1_shaded'));
+					var bg:FlxSprite = new FlxSprite(-220, -60).loadGraphic(Paths.image('belladonna sweets/stage_1_shaded'));
 					bg.setGraphicSize(Std.int(bg.width * 2));
 					bg.antialiasing = true;
 					bg.scrollFactor.set(1, 1);
