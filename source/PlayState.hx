@@ -723,7 +723,7 @@ class PlayState extends MusicBeatState
 					defaultCamZoom = 0.57;
 					curStage = 'cafe';
 
-							var bg:FlxSprite = new FlxSprite(-700, -200).loadGraphic(Paths.image('belladonna sweets/stage 1'));
+							var bg:FlxSprite = new FlxSprite(-550, -125).loadGraphic(Paths.image('belladonna sweets/stage 1'));
 					    bg.setGraphicSize(Std.int(bg.width * 2));
 							bg.antialiasing = true;
 							bg.scrollFactor.set(1, 1);
@@ -832,7 +832,7 @@ class PlayState extends MusicBeatState
 				defaultCamZoom = 0.57;
 				curStage = 'cafe-shaded';
 				{
-					var bg:FlxSprite = new FlxSprite(-700, -200).loadGraphic(Paths.image('belladonna sweets/stage_1_shaded'));
+					var bg:FlxSprite = new FlxSprite(-550, -125).loadGraphic(Paths.image('belladonna sweets/stage_1_shaded'));
 					bg.setGraphicSize(Std.int(bg.width * 2));
 					bg.antialiasing = true;
 					bg.scrollFactor.set(1, 1);
@@ -1251,7 +1251,7 @@ class PlayState extends MusicBeatState
 		if(FlxG.save.data.botplay && !loadRep) add(botPlayState);
 		
 		creditTxt = new FlxText(876, 648, 348);
-    creditTxt.text = "Opt By/nTheOrda & xLegend";
+    creditTxt.text = "Opt By\nTheOrda & xLegend";
     creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
     creditTxt.scrollFactor.set();
     add(creditTxt);
